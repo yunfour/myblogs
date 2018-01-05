@@ -2,4 +2,4 @@
 本人的一些博客
 
 # 目录
-* 1111
+* [location.replace() 的使用场景](https://github.com/yunfour/myblogs/issues/1)
